@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Logs
+logs
+*.log
+logs/
+debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Editor and OS-specific files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vite Cache
+.vite/
